@@ -1,6 +1,5 @@
-{
-    "data": [
-        {
+[
+    {
             "author_id": "1413898417982500866",
             "created_at": "2022-11-21T13:00:04.000Z",
             "edit_history_tweet_ids": [
@@ -404,7 +403,7 @@
             ],
             "id": "1594323410557243392",
             "text": "@JaenoXTM @KompasTV Gak bisa di lihat dari satu sisi bro..?\nCONTOH\nIbarat lu disuruh milih yang mana jika\n1. Pelaku yang masa depannya terbunuh karena TINDAK KEKERASAN NYA. atau\n2. Korban yang masa depannya terbunuh karena disabilitas (mental/fisik) karna AKIBAT TINDAK KEKERASAN",
-            "labelPelaku": "Netral",
+            "labelPelaku": "Positif",
             "labelKorban": "Netral"
         },
         {
@@ -492,7 +491,7 @@
             ],
             "id": "1594263184948760576",
             "text": "@zoelfick Kenapa ya tiap liat siswa masih pake seragam sekolah ngelakuin hal kekerasan fisik membuat jiwa2 guru bk ku keluarr, emosi bgt iniiii\ud83d\ude21\ud83d\ude21\ud83d\ude21",
-            "labelPelaku": "Netral",
+            "labelPelaku": "Negatif",
             "labelKorban": "Netral"
         },
         {
@@ -845,7 +844,7 @@
             "id": "1594097042598793216",
             "text": "@patstawr @Askrlfess yaa krn males, dlu gw jadi korban ampe nekad mau minggat aja diommelinnya \"Kamu krg berdoa\" \"kamu mungkin banyak bikin salah\" buset dah bu BK ini saya dpt kekerasan fisik bu bukan lagi digibahin...",
             "labelPelaku": "Netral",
-            "labelKorban": "Netral"
+            "labelKorban": "Negatif"
         },
         {
             "author_id": "1593182540680302593",
@@ -866,7 +865,7 @@
             ],
             "id": "1594066497399189504",
             "text": "@disdik_bandung @salmandoang @RESTABES_BDG @pandawa Orang yang sudah baligh atau dewasa SUDAH BISA DIPENJARA. KARENA DENGAN SADAR MELAKUKAN KEKERASAN BAIK SECARA FISIK MAUPUN VERBAL.",
-            "labelPelaku": "Netral",
+            "labelPelaku": "Negatif",
             "labelKorban": "Netral"
         },
         {
@@ -987,7 +986,7 @@
             ],
             "id": "1594008030735372288",
             "text": "Di satu sisi kesel banget lihat orang menyelesaikan masalah atau bereaksi akan sesuatu dengan melakukan \"kekerasan\". Tapi aku sukanya nonton video orang gelud. Bahkan ketika aku melihat orang teraniaya secara fisik, rasanya ingin gelud dengan si pelaku.\n\n#rancauandinihari",
-            "labelPelaku": "Netral",
+            "labelPelaku": "Negatif",
             "labelKorban": "Netral"
         },
         {
@@ -1020,7 +1019,7 @@
             ],
             "id": "1594002231237279744",
             "text": "@AREAJULID kekerasan fisik dan psikis kepada korban dengan cara menendang, memukul dan menginjak-injak tubuh korban. Ironisnya lagi aksi anak-anak dibawah umur ini direkam temannya yang lain lalu diviralkan di medsos",
-            "labelPelaku": "Netral",
+            "labelPelaku": "Negatif",
             "labelKorban": "Netral"
         },
         {
@@ -1067,11 +1066,4 @@
             "labelPelaku": "Negatif",
             "labelKorban": "Positif"
         }
-    ],
-    "meta": {
-        "newest_id": "1594677022458253312",
-        "next_token": "b26v89c19zqg8o3fpzhkhmmewx2hu814mdd7ib5jsac1p",
-        "oldest_id": "1593992550473674753",
-        "result_count": 97
-    }
-}
+]
